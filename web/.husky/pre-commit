@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
-cd web
+cd web /.husky/_/husky.sh
 
 npm run lint
